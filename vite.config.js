@@ -5,6 +5,10 @@ import Markdown from 'vite-plugin-vue-markdown'
 import path from 'node:path'
 import { VitePWA } from 'vite-plugin-pwa'
 
+module.exports = {
+  publicPath: '/live_site/'
+};
+
 export default defineConfig({
   plugins: [
     vue({
