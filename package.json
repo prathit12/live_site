@@ -1,0 +1,36 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "sh deploy.sh"
+  },
+  "dependencies": {
+    "@lottiefiles/lottie-player": "^2.0.2",
+    "@studio-freight/lenis": "^1.0.19",
+    "@vueuse/motion": "^2.0.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.0.0",
+    "devicon": "^2.15.1",
+    "v-viewer": "^3.0.11",
+    "vue": "^3.3.4",
+    "vue-github-button": "^3.1.0",
+    "vue-router": "^4.0.13",
+    "vue3-highlightjs": "^1.0.5",
+    "vue3-lottie": "^3.0.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.64.1",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.4.5",
+    "vite-plugin-pages": "^0.31.0",
+    "vite-plugin-pwa": "^0.16.4",
+    "vite-plugin-vue-markdown": "^0.23.7"
+  }
+}
