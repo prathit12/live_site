@@ -17,8 +17,8 @@ export default defineConfig({
         enabled: true
       },
       manifest: {
-        name: "Boni 💼",
-        short_name: 'Boni-Portfolio',
+        name: "Prathit 💼",
+        short_name: 'Prathit-Portfolio',
         description: 'a webpage to showcase my experience, education, skill-set, projects, certificates, achievements and recommendations.',
         theme_color: '#ffffff',
         icons: [
