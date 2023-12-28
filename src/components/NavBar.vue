@@ -27,13 +27,7 @@
                             <a class="nav-link"   @click="scroll('skills')">SKILLS</a>
                         </li>
                         <li class="nav-item" v-if="$route?.meta?.hideLink === undefined">
-                            <a class="nav-link" @click="scroll('certificates')">Certificates</a>
-                        </li>
-                        <li class="nav-item">
-                          <router-link :to="{name: 'Blog'}" class="nav-link">Blog</router-link>
-                        </li>
-                        <li class="nav-item" v-if="$route?.meta?.hideLink === undefined">
-                            <a class="nav-link" rel="noreferrer" href="https://github.com/boni619"
+                            <a class="nav-link" rel="noreferrer" href="https://github.com/prathit12"
                                 target="_blank">Projects</a>
                         </li>
                         <li class="nav-item">

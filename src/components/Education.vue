@@ -15,9 +15,9 @@
                                 <i class="fas fa-school mr-2"></i>
                                 <a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed"
                                     href="#education2" aria-expanded="false">
-                                    MCA (Master of Computer Application) (LOVELY PROFESSIONAL
+                                    Masters (Masters in Computer Science) (ARIZONA STATE
 UNIVERSITY) </a>
-                                <span>2022</span>
+                                <span>2023</span>
                             </h4>
                         </div>
                     </div>
@@ -28,9 +28,9 @@ UNIVERSITY) </a>
                                 <i class="fas fa-school mr-2"></i>
                                 <a data-parent="#faq-accordion" data-toggle="collapse" class="card-toggle collapsed"
                                     href="#education2" aria-expanded="false">
-                                    BCA (Bachelor's in Computer Application) (<i>GUWAHATI UNIVERSITY</i>)
+                                    BE (Bachelor's in Computer Engineering) (<i>GUJARAT TECHNOLOGICAL UNIVERSITY</i>)
                                     </a>
-                                <span>2016</span>
+                                <span>2022</span>
                             </h4>
                         </div>
                     </div>
