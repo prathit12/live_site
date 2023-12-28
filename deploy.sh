@@ -4,12 +4,11 @@ set -e
 # build
 npm run build
 # navigate into the build output directory
-cp dist/index.html dist/404.html
 cd dist
 # if you are deploying to a custom domain
-echo 'www.bonigope.com' > CNAME
+# echo 'www.example.com' > CNAME
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:Boni619/portfolio.git main:gh-pages
+git push -f git@github.com:prathit12/live_site.git master:gh-pages
 cd -
