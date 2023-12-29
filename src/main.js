@@ -6,7 +6,7 @@ import VueHighlightJS from 'vue3-highlightjs'
 import { MotionPlugin } from '@vueuse/motion'
 import AOS from 'aos'
 import Vue3Lottie from 'vue3-lottie'
-import ScrollAnimation from './directives/scrollAnimation'
+import ScrollAnimation from './directives/scrollAnimation.js'
 
 import 'highlight.js/styles/default.css';
 import "bootstrap/dist/css/bootstrap.min.css"
